@@ -1,0 +1,20 @@
+
+This project contains automated tests for a sample mobile application using Appium. The tests cover various functionalities including login, navigation, and form submission.
+
+# Features
+
+- Tests for both Android and iOS applications
+- Page Object Model (POM) design pattern
+- Integration with TestNG for test execution
+- Detailed reporting with ExtentReports
+
+# Getting Started
+
+# Prerequisites
+- Java 8 or higher
+- Maven
+- Appium
+- Android Studio (for Android testing)
+- Xcode (for iOS testing)
+
+
